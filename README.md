@@ -1,10 +1,11 @@
-# 👋 Hi, I’m @camilafloret
+# 👋 Olá, eu sou @camilafloret
 
-🔭 I’m currently working on **SENAI**  
-🌱 I’m learning and exploring new technologies  
-💬 Ask me about **Git, Python, Flutter, and more**  
+🎓 Sou **Camila Floret**, formada em **Ciência da Computação** e **Sistemas para Internet**, apaixonada por tecnologia.  
+🌱 Atualmente trabalho no **SENAI** e estou aprendendo **novas linguagens de programação**.  
+💬 Adoro explorar **robótica (FRC)**, **programação** e **projetos tecnológicos inovadores**.  
+🎾 No meu tempo livre, gosto de **jogar tênis**, **viajar**, **curtir com família e amigos**.  
 
-📫 **How to reach me:**  
+📫 **Como me encontrar:**  
 <div>
   <a href="mailto:cacafloret@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -22,16 +23,15 @@
 
 ---
 
-## 📊 GitHub Stats
-<div>
+## 📊 Estatísticas do GitHub & 🛠️ Linguagens Mais Usadas
+<div style="display: flex; gap: 2rem; flex-wrap: wrap;">
+
   <a href="https://github.com/camilafloret">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilafloret&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-</div>
 
-## 🛠️ Most Used Languages
-<div>
   <a href="https://github.com/camilafloret">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafloret&layout=compact&theme=dracula"/>
   </a>
+
 </div>
