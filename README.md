@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou @camilafloret
 
 🎓 Sou **Camila Floret**, formada em **Ciência da Computação** e **Sistemas para Internet**, apaixonada por tecnologia.  
-🌱 Atualmente trabalho no **SENAI** e estou aprendendo **novas linguagens de programação**.  
+🌱 Atualmente sou Instrutura de Formação Profissional no **SENAI**.  
 💬 Adoro explorar **robótica (FRC)**, **programação** e **projetos tecnológicos inovadores**.  
 🎾 No meu tempo livre, gosto de **jogar tênis**, **viajar**, **curtir com família e amigos**.  
 
@@ -35,3 +35,4 @@
   </a>
 
 </div>
+
