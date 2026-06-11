@@ -43,7 +43,7 @@ Além da tecnologia, adoro:
 
 ## 📚 Áreas de Interesse
 
-- 🤖 Robótica Educacional e FRC
+- 🤖 Robótica Educacional
 - 💻 Desenvolvimento Web
 - 🐍 Python e Visão Computacional
 - ⚙️ Automação e Sistemas
