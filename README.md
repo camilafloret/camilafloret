@@ -14,7 +14,6 @@ Olá! Eu sou **Camila Floret** 👋
 
 🎓 Formada em **Ciência da Computação** e **Sistemas para Internet**  
 🏫 Atualmente atuo como **Instrutora de Formação Profissional no SENAI**  
-🤖 Entusiasta de **Robótica FRC**, automação e projetos tecnológicos  
 💻 Apaixonada por desenvolvimento de software, ensino e aprendizagem prática  
 🌱 Sempre buscando aprender novas tecnologias e compartilhar conhecimento  
 
